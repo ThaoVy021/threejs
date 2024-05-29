@@ -1,0 +1,79 @@
+{
+  "hash": "8d187f03",
+  "configHash": "35445796",
+  "lockfileHash": "d811ee98",
+  "browserHash": "521364a0",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "fe11f12f",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "563eb0af",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "05c4fa5d",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../../../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "8468ea13",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "816f52bf",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "3626ce83",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "fdbb7a7f",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "9fe6d246",
+      "needsInterop": true
+    },
+    "THREE/examples/jsm/loaders/GLTFLoader.js": {
+      "src": "../../../../../node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+      "file": "THREE_examples_jsm_loaders_GLTFLoader__js.js",
+      "fileHash": "4dacd6f9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-IX4HZ34O": {
+      "file": "chunk-IX4HZ34O.js"
+    },
+    "chunk-3M6PUBOX": {
+      "file": "chunk-3M6PUBOX.js"
+    },
+    "chunk-HROJ5GFW": {
+      "file": "chunk-HROJ5GFW.js"
+    },
+    "chunk-7ACMOC43": {
+      "file": "chunk-7ACMOC43.js"
+    },
+    "chunk-J4B6MK7R": {
+      "file": "chunk-J4B6MK7R.js"
+    }
+  }
+}
